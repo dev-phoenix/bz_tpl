@@ -1,10 +1,15 @@
 {
-	"recommendations": ["Syler.sass-indented",
-	"stylelint.vscode-stylelint",
-	"jerryhong.autofilename",
-	"EditorConfig.EditorConfig",
-	"htmlhint.vscode-htmlhint",
-	"ritwickdey.LiveServer",
-	"dbaeumer.vscode-eslint",
-	"rebornix.project-snippets"]
+	"recommendations": [
+		"Syler.sass-indented",
+		"stylelint.vscode-stylelint",
+		"jerryhong.autofilename",
+		"EditorConfig.EditorConfig",
+		"htmlhint.vscode-htmlhint",
+		"ritwickdey.LiveServer",
+		"dbaeumer.vscode-eslint",
+		"rebornix.project-snippets",
+		"formulahendry.code-runner",
+		"oderwat.indent-rainbow",
+		"huuums.vscode-fast-folder-structure"
+	]
 }
