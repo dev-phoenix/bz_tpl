@@ -1,6 +1,6 @@
 # bz_tpl
 workspace layout for development projects management
 
-v0.2
+v0.3
 
 =====
