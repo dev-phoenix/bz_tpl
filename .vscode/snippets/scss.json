@@ -1,0 +1,33 @@
+{
+    "cssflex": {
+      "scope": "scss",
+      "prefix": "g-fl",
+      "body": [
+        "display: flex;",
+        "align-items: center;",
+        "justify-content: space-between;"
+      ],
+      "description": "Snippet for use css style"
+    },
+    "cssflex2": {
+      "scope": "scss",
+      "prefix": "g-fld",
+      "body": [
+        "display: flex;",
+        "flex-direction: column;",
+        "align-items: center;",
+        "justify-content: space-between;"
+      ],
+      "description": "Snippet for use css style"
+    },
+    "cssmedia": {
+      "scope": "scss",
+      "prefix": "med",
+      "body": [
+        "@media (max-width: 600px){",
+        "    display: block;",
+        "}"
+      ],
+      "description": "@media (max-width: 600px){\n    display: block;\n}"
+    }
+}
